@@ -1,7 +1,7 @@
 # https://programmers.co.kr/learn/courses/30/lessons/17676
 from datetime import datetime
 
-
+#
 def solution(lines):
     answer = 0
     start_time, end_time = [], []
