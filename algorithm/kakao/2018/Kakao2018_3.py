@@ -3,7 +3,7 @@ import re
 import math
 from collections import Counter
 
-
+# 뉴스클러스터링
 def solution(str1, str2):
     str_list1 = divide_str(str1)
     str_list2 = divide_str(str2)
